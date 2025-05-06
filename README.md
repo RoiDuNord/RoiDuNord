@@ -28,12 +28,6 @@
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -47,9 +41,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="70" alt="postgresql logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="70" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="70" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=redis" height="70" alt="redis logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=kafka" height="70" alt="kafka logo" />
   <img width="15" />
