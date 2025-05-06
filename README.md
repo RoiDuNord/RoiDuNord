@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=golang" height="70" alt="golang logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
