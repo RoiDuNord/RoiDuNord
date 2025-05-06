@@ -53,9 +53,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=kafka" height="70" alt="kafka logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="70" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="70" alt="postman logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="70" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
   <img width="15" />
 </div>
 
