@@ -41,20 +41,9 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-###
-
-
-<h3 align="center">Статистика📈</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roidunord&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="center">Пройденные курсы📝</h3>
 
-### Go
+### ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | Программирование на GO                           | Stepik    | [Сертификат](https://stepik.org/cert/2506601) |
