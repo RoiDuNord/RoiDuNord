@@ -66,7 +66,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 | Симулятор SQL                                   | karpov.courses     | полностью пройден |
 | SQL Academy                                     | SQL Academy    | решено >50 задач |
 
-## Docker
+### Docker
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | DOCKER с нуля                                   | karpov.courses | полностью пройден                       |
