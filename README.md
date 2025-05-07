@@ -47,6 +47,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 
 ###
 
+<div align="center">
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | Программирование на GO                           | Stepik    | [Сертификат](https://stepik.org/cert/2506601) |
@@ -60,6 +61,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 | Симулятор SQL        | karpov.courses     | полностью пройден
 | SQL Academy            | SQL Academy    | решено >50 задач
 | DOCKER с нуля.           | karpov.courses     | полностью пройден
+</div>
 
 ###
 
