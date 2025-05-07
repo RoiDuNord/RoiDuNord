@@ -45,7 +45,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 
 <h3 align="center">Пройденные курсы📝</h3>
 
-### **Go**
+### Go
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | Программирование на GO                           | Stepik    | [Сертификат](https://stepik.org/cert/2506601) |
@@ -69,7 +69,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 ## Docker
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
-| DOCKER с нуля                                   | karpov.courses     | полностью пройден |
+| DOCKER с нуля                                   | karpov.courses | полностью пройден                       |
 
 ### C
 | Курс                                             | Платформа | Сертификат                                  |
@@ -80,8 +80,6 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 ###
 
 <h3 align="center">Статистика📈</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roidunord&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
