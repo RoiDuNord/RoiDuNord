@@ -43,11 +43,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 ###
 
 <h3 align="center">Leetcode🧠</h3>
-[![Codewars Badge](https://www.codewars.com/users/FatherOfFathers/badges/small)](https://www.codewars.com/users/FatherOfFathers) 
-
-###
-
-<h3 align="center">Codewars🧠</h3>
+[![Codewars Badge](https://www.codewars.com/users/USERNAME/badges/small)](https://www.codewars.com/users/USERNAME) 
 [![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/FatherofFathers?theme=dark)](https://leetcode.com/FatherofFathers/)
 
 ###
