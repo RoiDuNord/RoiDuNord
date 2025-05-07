@@ -43,7 +43,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 <h3 align="center">Leetcode And Codewars🧠</h3>
 
 [![Codewars Badge](https://www.codewars.com/users/FatherOfFathers/badges/small)](https://www.codewars.com/users/FatherOfFathers) 
-[![LeetCode Badge](https://leetcode.com/static/images/leetcode_logo.png)](https://leetcode.com/FatherofFathers/)
+[![LeetCode Badge](https://leetcode.com/static/images/leetcode_logo.png)](https://leetcode.com/FatherOfFathers/)
 
 <h3 align="center">Пройденные курсы📝</h3>
 
