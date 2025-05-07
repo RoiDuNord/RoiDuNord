@@ -48,7 +48,7 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 |--------------------------------------------------|-----------|---------------------------------------------|
 | Программирование на GO                           | Stepik    | [Сертификат](https://stepik.org/cert/2506601) |
 
-### Python
+### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | "Поколение PYTHON": курс для начинающих         | Stepik    | [Сертификат](https://stepik.org/cert/2082532) |
@@ -57,19 +57,25 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 | Регулярные выражения в PYTHON                    | Stepik    | [Сертификат](https://stepik.org/cert/2428597) |
 | Тестирование ПО: POSTMAN для тестирования API    | Stepik    | [Сертификат](https://stepik.org/cert/2147658) |
 
-### SQL
+### ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | Интерактивный тренажер по SQL                   | Stepik    | [Сертификат](https://stepik.org/cert/2056336) |
 | Симулятор SQL                                   | karpov.courses     | полностью пройден |
 | SQL Academy                                     | SQL Academy    | решено >50 задач |
 
-### Docker
+### ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | DOCKER с нуля                                   | karpov.courses | полностью пройден                       |
 
-### C
+### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 | Курс                                             | Платформа | Сертификат                                  |
 |--------------------------------------------------|-----------|---------------------------------------------|
 | Основы программирования на C. Задачи             | Stepik    | [Сертификат](https://stepik.org/cert/1890304) |
+
+### ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Курс                                             | Платформа | Сертификат                                  |
+|--------------------------------------------------|-----------|---------------------------------------------|
+| Тестирование ПО: POSTMAN для тестирования API    | Stepik    | [Сертификат](https://stepik.org/cert/2147658) |
