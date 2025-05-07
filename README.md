@@ -39,9 +39,7 @@
 Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-[![Codewars Badge](https://www.codewars.com/users/USERNAME/badges/small)](https://www.codewars.com/users/USERNAME) 
+[![Codewars Badge](https://www.codewars.com/users/FatherOfFathers/badges/small)](https://www.codewars.com/users/FatherOfFathers) 
 [![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/FatherofFathers?theme=dark)](https://leetcode.com/FatherofFathers/)
 
 ###
