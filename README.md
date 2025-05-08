@@ -43,14 +43,18 @@ Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=
 
 ###
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
-[![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/FatherofFathers?theme=dark)](https://leetcode.com/FatherofFathers/)
-
-###
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-
-[![Codewars Badge](https://www.codewars.com/users/FatherOfFathers/badges/small)](https://www.codewars.com/users/FatherOfFathers) 
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+        <br>
+        [![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/FatherofFathers?theme=dark)](https://leetcode.com/FatherofFathers/)
+    </div>
+    <div>
+        ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+        <br>
+        [![Codewars Badge](https://www.codewars.com/users/FatherOfFathers/badges/small)](https://www.codewars.com/users/FatherOfFathers)
+    </div>
+</div>
 
 ###
 
